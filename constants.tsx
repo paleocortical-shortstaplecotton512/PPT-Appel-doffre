@@ -1,0 +1,5 @@
+import React from 'react';
+
+// Using a simple, clean SVG logo as a data URI to avoid extra file handling and keep it self-contained.
+// This SVG is a stylized 'DS' inside a circle, filled with white.
+export const DEVSOURCE_LOGO_SVG = `data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNMjUsMjAgQzQwLDE1IDcwLDMwIDYwLDUwIFMzMCw4MCA0NSw5MCBMNTAsODUgQzQwLDc1IDY1LDU1IDcwLDQwIFM1MCwxMCAzMCwyNSBaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjUiIGZpbGw9Im5vbmUiLz48cGF0aCBkPSJNNzUsODAgQzYwLDg1IDMwLDcwIDQwLDUwIFM3MCwyMCA1NSwxMCBMNTAsMTUgQzYwLDI1IDM1LDQ1IDMwLDYwIFM1MCw5MCA3MCw3NSBaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjUiIGZpbGw9Im5vbmUiLz48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0OCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI0IiBmaWxsPSJub25lIi8+PC9zdmc+`;

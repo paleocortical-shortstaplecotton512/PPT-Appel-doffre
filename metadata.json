@@ -1,0 +1,5 @@
+{
+  "name": "Devsource PowerPoint Customizer",
+  "description": "An application to customize PowerPoint presentations for specific clients by replacing placeholders in the filename and content.",
+  "requestFramePermissions": []
+}
